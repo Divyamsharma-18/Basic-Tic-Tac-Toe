@@ -99,3 +99,5 @@ It keeps the motivation bar full like a health potion in RPG games 🔥⚔️
 Made with ❤️, logic, and a tiny bit of “pls let me win this round” energy.
 
 Want me to **add animated emotions on win** or **AI opponent mode** next? 😏
+
+<img width="1919" height="1073" alt="Image" src="https://github.com/user-attachments/assets/f4725c51-6a58-43ee-b4b3-bed795799053" />
